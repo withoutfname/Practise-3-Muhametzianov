@@ -1,0 +1,23 @@
+fastapiproject\
+├── database/
+│   ├── __init__.py
+│   ├── connection.py
+├── models/
+│   ├── __init__.py
+│   ├── events.py
+│   ├── users.py
+├── routes/
+│   ├── __init__.py
+│   ├── events.py
+│   ├── users.py
+├── templates/
+│   ├── home.html
+│   ├── todo.html
+├── Dockerfile
+├── README.md
+├── api.py
+├── directory_structure_20251031_092844.txt
+├── main.py
+├── model.py
+├── requirements.txt
+├── todo.py

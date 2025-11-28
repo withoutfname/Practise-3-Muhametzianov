@@ -1,0 +1,11 @@
+fastapiproject\
+├── templates/
+│   ├── home.html
+│   ├── todo.html
+├── Dockerfile
+├── README.md
+├── api.py
+├── directory_structure_20251031_092844.txt
+├── model.py
+├── requirements.txt
+├── todo.py
