@@ -18,7 +18,6 @@ fastapiproject\
 ├── README.md
 ├── api.py
 ├── directory_structure.txt
-├── directory_structure_20251031_092844.txt
 ├── main.py
 ├── model.py
 ├── requirements.txt
